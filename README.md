@@ -25,6 +25,8 @@ Bikcraft é um projeto que une durabilidade, design e sustentabilidade.
 ## :mortar_board: Quem ministrou?
 O curso foi ministrado pelo mestre [André Rafael](https://github.com/origamid)
 
+#### Veja o projeto como ficou: [surge.sh](http://callous-tub.surge.sh/) 
+
 ---
 
 <p align="center">Feito com ❤️ por <strong>Oziel Gonçalves :wave: </p>
